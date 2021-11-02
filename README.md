@@ -23,5 +23,5 @@ I create Websites & Community Pages for **Hi-Spec Diamond Drilling**
 
 💻 My Projects
 
-<img src="https://user-images.githubusercontent.com/42446797/139859024-da8a2aeb-1026-40ff-917c-ffbea6432798.png" alt="drill" width="50px"> <li><a href="https://hi-specdd.co.uk">Hi-Spec Diamond Drilling</a></li>
+<img src="https://user-images.githubusercontent.com/42446797/139859024-da8a2aeb-1026-40ff-917c-ffbea6432798.png" alt="drill" width="50px"> <a href="https://hi-specdd.co.uk">Hi-Spec Diamond Drilling</a>
 

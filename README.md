@@ -1,7 +1,3 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  I am Josh!
-
-<!--
-**JoshyyDev/JoshyyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
+![Uptime Robot status](https://img.shields.io/uptimerobot/status/m789613149-1f49530a6a35579c4ced9d67) ![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m789613149-1f49530a6a35579c4ced9d67)
 

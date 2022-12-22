@@ -3,7 +3,7 @@
 ---
 
 
-![Uptime Robot status](https://img.shields.io/uptimerobot/status/m789613149-1f49530a6a35579c4ced9d67) ![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m789613149-1f49530a6a35579c4ced9d67) ![GitHub top language](https://img.shields.io/github/languages/top/JoshuaB8/Hi-Spec?style=plastic) ![GitHub language count](https://img.shields.io/github/languages/count/JoshuaB8/Hi-Spec?style=plastic) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JoshuaB8/Hi-Spec?style=plastic)
+![Uptime Robot status](https://img.shields.io/uptimerobot/status/m789613149-1f49530a6a35579c4ced9d67) ![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m789613149-1f49530a6a35579c4ced9d67);
  
 
 A Junior Web Developer specialising in JavaScript and SEO Practises.
